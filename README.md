@@ -1,6 +1,18 @@
-# Creating-a-Neural-Network-using-NumPY-and-Pandas
-Creating a Neural Network to solve a classification problem using only NumPy and Pandas
 # NumPy Neural Network from Scratch — Breast Cancer & MNIST
+
+This was the task assigned:
+
+Create a Neural Network to solve a classification problem with only using NumPY and Pandas.
+**Success Criterion :**
+1) Build the Core Network: Start by creating a simple, single-script neural network using only Python with NumPy and Pandas. The goal is your network should be able to successfully perform classification tasks on a simple dataset.
+
+2) Create a Reusable Library: Refactor the initial script into an object-oriented, Pytorch-like library. The key is to create classes like Sequential to manage the model and DenseLayer for network layers, along with methods like .add(), .compile(), and .fit().
+
+3) Demonstrate with a Real-World Problem: Use your new library to build and train a model for a practical use case. A great choice is classifying handwritten digits from the MNIST dataset to prove the library's effectiveness and scalability.
+
+4) Create a Project Showcase Video: Produce a short (<5 min) video explaining the project. The video should outline the necessary learning path, demonstrate the library in action with the MNIST example, and discuss potential future enhancements like adding new optimizers or layer types.
+
+   ----
 
 This repository contains a **pure NumPy implementation** of a small neural network framework and end-to-end demos on:
 
